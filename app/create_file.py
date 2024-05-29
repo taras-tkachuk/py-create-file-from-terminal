@@ -40,5 +40,5 @@ def create_file() -> None:
         return
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     create_file()
